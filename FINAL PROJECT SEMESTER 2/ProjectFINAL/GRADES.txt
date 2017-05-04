@@ -1,0 +1,4 @@
+A+ A+ B+ C- F D+ D+ D+ 
+C C D+ D+ C C+ 
+C C A+ A+ C C+ F F 
+A+ F C+ F A+ C 
